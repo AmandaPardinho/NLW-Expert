@@ -1,0 +1,15 @@
+ANOTAÇÕES DE AULA
+
+-Controller: 
+	-classe que vai controlar a aplicação;
+	-classe que vai receber as requisições do usuário e vai retornar a resposta para o usuário;
+	-contém os endpoints da aplicação;
+
+-Herança:
+	-Permite usar métodos e atributos de uma classe em outra classe;
+	-extends: palavra reservada para herança;
+	-Classe filha herda os métodos e atributos da classe mãe;
+
+-string.Empty:
+	-é uma string vazia;
+	-é uma forma de inicializar uma string vazia;
